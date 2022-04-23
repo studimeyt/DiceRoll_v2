@@ -10,7 +10,7 @@ Instead of numbers we use images to view the rolls on dice
 
   </tr>
     <tr>
-    <td><img src="![image](https://user-images.githubusercontent.com/57259880/164910713-7660cb08-578c-4018-9fc8-2e30b6db05e6.png)" ></td>
-    <td><img src="![image](https://user-images.githubusercontent.com/57259880/164910713-7660cb08-578c-4018-9fc8-2e30b6db05e6.png)"></td>
+    <td></td>
+    <td></td>
 
  </table>
